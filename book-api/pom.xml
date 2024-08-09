@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>bookapi</artifactId>
+	<artifactId>book-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bookapi</name>
-	<description>A simple Spring Boot RESTful API for managing books</description>
+	<name>book-api</name>
+	<description>Implementation of a Spring Boot RESTful API for managing books</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -27,7 +27,7 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>22</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
